@@ -40,7 +40,7 @@ The heart of **PhishBuster-URL-Safeguard** lies in its utilization of machine le
 
 Stay one step ahead of cyber threats with **PhishBuster-URL-Safeguard**. Safeguard your online experience and explore the power of advanced machine learning techniques in cybersecurity.
 
-![PhishBuster Logo](link_to_your_image)
+![PhishBuster Logo]([link_to_your_image](https://thehackernews.com/new-images/img/b/R29vZ2xl/AVvXsEjcbzJjjUydSSsFwLhn8J_FBOwb2rShTJ9u9L3O68jcLeqqboDAZoWxCgpm2Yz2GJCO23QQTYdEzi0X-VMlnJgAzudcTwDBGHhg6FSKGISfWNtTpCepZSW2bSH9ZlEd-aJjEmH0K8JFU2MXMVjDucMSquUd3sKlC5exxd1i03JsRSzKquMdSxtQ_Q2h6cA/s728-e3650/rat.jpg))
 
 For more information, code implementation, and usage instructions, refer to the official [GitHub repository](link_to_your_repository).
 
